@@ -1,0 +1,21 @@
+.hero{
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+.hero-left{
+    display: flex;
+    flex-wrap: wrap
+}
+.hero-latest-btn p{
+    background-color: red;
+    width: 170px;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+img{
+    border-radius: 20px;
+}
